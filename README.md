@@ -23,4 +23,4 @@
 [website]: https://stridera.com
 [twitter]: https://twitter.com/stridera
 [linkedin]: https://linkedin.com/in/stridera
-[instagram]: https://instagram.com/stridera
+[instagram]: https://instagram.com/utaboshi
