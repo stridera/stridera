@@ -14,11 +14,11 @@
 [<img align="left" alt="stridera.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="stridera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="stridera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stridera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="utaboshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
-<img align="left" alt="strider's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stridera&show_icons=true&hide_border=true" />
+<img align="left" alt="Strider's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stridera&show_icons=true&hide_border=true" />
 
 [website]: https://stridera.com
 [twitter]: https://twitter.com/stridera
