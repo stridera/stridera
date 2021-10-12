@@ -18,10 +18,10 @@ My attempts at doing the reinforcement learning directly on the xbox, including 
 
 ### Contact Me
 
-[<img align="left" alt="stridera.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="stridera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="stridera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="utaboshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![website](icons/globe_icon.png)][website]
+[![twitter](icons/twitter_icon.png)][twitter]
+[![linkedin](icons/linkedin_icon.png)][linkedin]
+[![instagram](icons/instagram_icon.png)][instagram]
 
 ---
 
