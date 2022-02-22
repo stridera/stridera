@@ -4,15 +4,15 @@
 
 - I'm currently with [Blue River Technology](http://www.bluerivertechnology.com/) as a Senior Robotics/Machine Learning Engineer.
 - I am a moderator for [/r/fantasy](https://www.reddit.com/r/fantasy/) and am working on new things for the site.
-- I'm also a god (Admin) for the text based game [Fierymud](https://www.fierymud.org) and am working on a rewrite of the engine.
-- I'm also a general hacker, builder, maker. I love to build new things.
+- I'm a god (Admin) for the text based game [Fierymud](https://www.fierymud.org) and am working on a rewrite of the engine.
+- I'm a general hacker, builder, maker. I love to build new things.
 - I'm an emergency responder. I'm a licensed EMT and work with the San Mateo Sheriff Department doing Marine, Underwater, and Cliff search and rescue.
 - I enjoy to write in the very limited spare time I have and hope to publish a fantasy novel someday.
 
 ### Current Personal Project
 I'm working on building a system to play the arcade game Robotron 2084 directly on the xbox hardware.  I'm doing this using computer vision to see the world and some robotics (an arduino hooked up with an x-arcade controller) to control the xbox.  The end goal is to use reinforcement learning to develop an engine to play the game.
 
-I rewrote the [robotron game](https://github.com/stridera/robotron-2084) in python using pygame with a focus on allowing it to run using OpenAI Gym protocols.
+I rewrote the [robotron game](https://github.com/stridera/robotron-2084) in python using pygame with a focus on allowing it to run using OpenAI Gym protocols.  You can see attempts to train it using Stable Baselines 3 in my [robotron-rl](https://github.com/stridera/robotron-rl) repo.
 
 My attempts at doing the reinforcement learning directly on the xbox, including hardware requirements, can be seen on my [Robotron ML Repo](https://github.com/stridera/robotron).
 
