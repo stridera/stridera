@@ -2,7 +2,7 @@
 
 ## In this realm, you can see my tinkering. About me:
 
-- I'm currently with [Blue River Technology](http://www.bluerivertechnology.com/) as a Senior Robotics/Machine Learning Engineer.
+- I'm currently searching for a Robotics position.
 - I am a moderator for [/r/fantasy](https://www.reddit.com/r/fantasy/) and am working on new things for the site.
 - I'm a god (Admin) for the text based game [Fierymud](https://www.fierymud.org) and am working on a rewrite of the engine.
 - I'm a general hacker, builder, maker. I love to build new things.
