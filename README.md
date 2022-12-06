@@ -19,6 +19,7 @@ My attempts at doing the reinforcement learning directly on the xbox, including 
 ### Contact Me
 
 [![website](icons/globe_icon.png)][website]
+[![mastodon](icons/mastodon_icon.png)][mastodon]
 [![twitter](icons/twitter_icon.png)][twitter]
 [![linkedin](icons/linkedin_icon.png)][linkedin]
 [![instagram](icons/instagram_icon.png)][instagram]
@@ -28,6 +29,7 @@ My attempts at doing the reinforcement learning directly on the xbox, including 
 <img align="left" alt="Strider's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stridera&show_icons=true&hide_border=true" />
 
 [website]: https://stridera.com
+[mastodon]: https://mastodon.social/@striderjones
 [twitter]: https://twitter.com/stridera
 [linkedin]: https://linkedin.com/in/stridera
 [instagram]: https://instagram.com/utaboshi
