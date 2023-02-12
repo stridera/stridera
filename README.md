@@ -2,11 +2,11 @@
 
 ## In this realm, you can see my tinkering. About me:
 
-- I'm currently searching for a Robotics position.
-- I am a moderator for [/r/fantasy](https://www.reddit.com/r/fantasy/) and am working on new things for the site.
+- I'm currently a Quantum Engineer (Digital Signal Processing Engineer) for ([ionq](https://ionq.com/)).
 - I'm a god (Admin) for the text based game [Fierymud](https://www.fierymud.org) and am working on a rewrite of the engine.
 - I'm a general hacker, builder, maker. I love to build new things.
 - I'm an emergency responder. I'm a licensed EMT and work with the San Mateo Sheriff Department doing Marine, Underwater, and Cliff search and rescue.
+- I am a moderator for [/r/fantasy](https://www.reddit.com/r/fantasy/) and am working on new things for the site.
 - I enjoy to write in the very limited spare time I have and hope to publish a fantasy novel someday.
 
 ### Current Personal Project
