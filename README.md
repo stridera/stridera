@@ -9,27 +9,23 @@
 - I am a moderator for [/r/fantasy](https://www.reddit.com/r/fantasy/) and am working on new things for the site.
 - I enjoy to write in the very limited spare time I have and hope to publish a fantasy novel someday.
 
-### Current Personal Project
-I'm working on building a system to play the arcade game Robotron 2084 directly on the xbox hardware.  I'm doing this using computer vision to see the world and some robotics (an arduino hooked up with an x-arcade controller) to control the xbox.  The end goal is to use reinforcement learning to develop an engine to play the game.
+### Current Personal Projects
 
-I rewrote the [robotron game](https://github.com/stridera/robotron-2084) in python using pygame with a focus on allowing it to run using OpenAI Gym protocols.  You can see attempts to train it using Stable Baselines 3 in my [robotron-rl](https://github.com/stridera/robotron-rl) repo.
+**[Bobbinry](https://github.com/stridera/bobbins)** — A modular, open-source platform for writers and worldbuilders. Create projects, install powerful bobbins (modular extensions), and bring your stories to life. Built with Next.js, Fastify, and PostgreSQL in a Turborepo monorepo.
 
-My attempts at doing the reinforcement learning directly on the xbox, including hardware requirements, can be seen on my [Robotron ML Repo](https://github.com/stridera/robotron).
+**[RollInit](https://rollinit.app)** — A real-time D&D initiative tracker for in-person and online sessions. DM creates a session, players join with a short code, and everyone stays in sync via WebSockets. Built with Next.js 16, Socket.io, and Prisma.
+
+### Past Projects
+
+I built a system to play the arcade game Robotron 2084 directly on xbox hardware using computer vision and robotics (an arduino with an x-arcade controller) to control the console, with the goal of training via reinforcement learning. I rewrote the [robotron game](https://github.com/stridera/robotron-2084) in python/pygame for OpenAI Gym, trained it with [Stable Baselines 3](https://github.com/stridera/robotron-rl), and documented the [hardware setup](https://github.com/stridera/robotron).
 
 ### Contact Me
 
-[![website](icons/globe_icon.png)][website]
-[![mastodon](icons/mastodon_icon.png)][mastodon]
-[![twitter](icons/twitter_icon.png)][twitter]
-[![linkedin](icons/linkedin_icon.png)][linkedin]
-[![instagram](icons/instagram_icon.png)][instagram]
+[![Website](https://img.shields.io/badge/Website-stridera.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://stridera.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@stridera-0085ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/stridera.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@striderjones-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@striderjones)
+[![Threads](https://img.shields.io/badge/Threads-@utaboshi-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@utaboshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stridera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stridera)
+[![Instagram](https://img.shields.io/badge/Instagram-utaboshi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/utaboshi)
 
 ---
-
-<img align="left" alt="Strider's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stridera&show_icons=true&hide_border=true" />
-
-[website]: https://stridera.com
-[mastodon]: https://mastodon.social/@striderjones
-[twitter]: https://twitter.com/stridera
-[linkedin]: https://linkedin.com/in/stridera
-[instagram]: https://instagram.com/utaboshi
