@@ -11,7 +11,7 @@
 
 ### Current Personal Projects
 
-**[Bobbinry](https://github.com/stridera/bobbins)** — A modular, open-source platform for writers and worldbuilders. Create projects, install powerful bobbins (modular extensions), and bring your stories to life. Built with Next.js, Fastify, and PostgreSQL in a Turborepo monorepo. ([Repo](https://github.com/stridera/Bobbinry)]
+**[Bobbinry](https://bobbinry.com)** — A modular, open-source platform for writers and worldbuilders. Create projects, install powerful bobbins (modular extensions), and bring your stories to life. Built with Next.js, Fastify, and PostgreSQL in a Turborepo monorepo. ([Repo](https://github.com/stridera/Bobbinry)]
 
 **[RollInit](https://rollinit.app)** — A real-time D&D initiative tracker for in-person and online sessions. DM creates a session, players join with a short code, and everyone stays in sync via WebSockets. Built with Next.js 16, Socket.io, and Prisma.  ([Repo](https://github.com/stridera/rollinit))
 
